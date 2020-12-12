@@ -1,0 +1,21 @@
+{
+    "name": "BASpi_6u6r",
+    "docs": "https://github.com/sjpbailey/UDI-BacNetPi",
+    "type": "python3",
+    "executable": "BASpi_6u6r.py",
+    "install": "install.sh",
+    "description": "Programable BacNet Controller NodeServer",
+    "notice": "Use at your own risk",
+    "shortPoll": "60",
+    "longPoll": "240",
+    "credits": [
+        {
+            "title": "BASpi SYS6U6R NodeServer",
+            "author": "Steven Bailey (sjpbailey)",
+            "version": "2.0.1",
+            "date": "December 11, 2020",
+            "source": "https://github.com/sjpbailey/UDI-BASpi-SYS6U6R-master",
+            "license": "https://github.com/sjpbailey/UDI-BASpi-SYS6U6R-master/license"
+        }
+    ]
+}
