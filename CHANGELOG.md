@@ -8,5 +8,5 @@
 - Created Images Folder
 - Updated README.md
 - Deleted old bascontrol_ns module (tempoary module)
-- Updated server.jason, versions.txt
+- Updated server.json, versions.txt to update poly
 - Cleaned Repository Commits
