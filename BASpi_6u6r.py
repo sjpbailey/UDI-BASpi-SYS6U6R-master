@@ -65,6 +65,8 @@ class Controller(polyinterface.Controller):
                 LOGGER.info('Unable to connect')
             if self.bc.ePlatform == Platform.BASC_PI:
                 LOGGER.info('connected to BASpi6U6R')
+            if self.bc.ePlatform == Platform.BASC_ED:
+                LOGGER.info('connected to BASpi-Edge Module ONE')
             if self.bc.ePlatform == Platform.BASC_AO:
                 LOGGER.info('connected to BASpi6U4R2AO WRONG MODULE Please use correct NodeServer')    
 
