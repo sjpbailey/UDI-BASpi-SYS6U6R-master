@@ -95,12 +95,12 @@ class Controller(polyinterface.Controller):
             
             if self.debug_enable == 'True' or self.debug_enable == 'true':
                 # Universal Inputs
-                LOGGER.info("Temp: " + str(input_one))
-                LOGGER.info("Temp: " + str(input_two))
-                LOGGER.info("Temp: " + str(input_tre))
-                LOGGER.info("Temp: " + str(input_for))
-                LOGGER.info("Temp: " + str(input_fiv))
-                LOGGER.info("Temp: " + str(input_six))
+                LOGGER.info("AI-1: " + str(input_one))
+                LOGGER.info("AI-2: " + str(input_two))
+                LOGGER.info("AI-3: " + str(input_tre))
+                LOGGER.info("AI-4: " + str(input_for))
+                LOGGER.info("AI-5: " + str(input_fiv))
+                LOGGER.info("AI-6: " + str(input_six))
                 # Binary/Digital Outputs 
                 LOGGER.info("OnOff: " + str(output_one))
                 LOGGER.info("OnOff: " + str(output_two))
